@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Run Tests",
+      "setup": "pip install numpy",
+      "run": "python -m unittest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
